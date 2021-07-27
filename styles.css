@@ -127,6 +127,13 @@ ul.timeline > li:before {
     margin: 0 15px 30px 0;
   }
 
+  .icone-providencias {
+    color:#0275d8;
+    font-size:2em;
+    float:left;
+    margin: 0 15px 0;
+  }
+
   .icone-busca {
     color:#cccccc;
     font-size:2em;
@@ -184,5 +191,12 @@ ul.timeline > li:before {
     font-size:2em;
     float:left;
     margin: 0 15px 15px 0;
+  }
+
+  .icone-providencias {
+    color:#0275d8;
+    font-size:2em;
+    float:left;
+    margin: 0 15px 0 0;
   }
 }
