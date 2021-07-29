@@ -182,6 +182,7 @@ ul.timeline > li:before {
   .mob-icon {
     font-size: 1.8em;
     background: none!important;
+    margin-bottom: -10px!important;
   }
 
   .fixed-bottom {
@@ -194,7 +195,7 @@ ul.timeline > li:before {
   }
 
   .mob-menu {
-    font-size: 0.5em!important;
+    font-size: 0.6em!important;
     line-height: 0.4em!important;
     font-family: Helvetica;
     text-transform: uppercase;
