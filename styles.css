@@ -103,7 +103,8 @@ ul.timeline > li:before {
 }
 
 .card-processo {
-  margin-bottom: 25px!important;
+  margin-bottom: 10px!important;
+  margin-top: 10px!important;
 }
 
 .display-1 {
