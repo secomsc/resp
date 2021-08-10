@@ -198,7 +198,7 @@ ul.timeline > li:before {
   }
 
   .desktop {
-    display: none;
+    display: none!important;
   }
 
   .mob-icon {
