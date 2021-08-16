@@ -91,6 +91,7 @@ ul.timeline > li:before {
   width: 100%;
   padding-top: 20px;
   margin: 0!important;
+  text-align: left;
 }
 
 .recuperado {
