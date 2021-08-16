@@ -31,6 +31,12 @@ respiradores {
   display: none;
 }
 
+.email {
+  font-size: 2em;
+  font-weight: bold;
+  color: #23794c;
+}
+
 #btn-back-to-top {
   position: fixed;
   bottom: 20px;
