@@ -37,6 +37,11 @@ respiradores {
   color: #23794c;
 }
 
+.email a {
+  color: #23794c;
+  text-decoration: none;
+}
+
 #btn-back-to-top {
   position: fixed;
   bottom: 20px;
