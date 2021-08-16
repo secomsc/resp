@@ -251,41 +251,41 @@ ul.timeline > li:before {
     color:#cccccc;
     font-size:2em;
     float:left;
-    margin: 0 15px 15px 0;
+    margin: 0 15px 30px 0;
   }
 
   .icone-recuperado {
     color:#0275d8;
     font-size:2em;
     float:left;
-    margin: 0 15px 15px 0;
+    margin: 0px 15px 20px 0;
   }
 
   .icone-providencias {
     color:#0275d8;
     font-size:2em;
     float:left;
-    margin: 0 15px 0 0;
+    margin: 0 15px 20px 0;
   }
 
   .icone-imoveis {
     color:#0dcaf0;
     font-size:2em;
     float:left;
-    margin: 0 15px 30px 0;
+    margin: 0 15px 20px 0;
   }
 
   .icone-imoveis-pendentes {
     color:#188754;
     font-size:2em;
     float:left;
-    margin: 0 15px 30px 0;
+    margin: 0 15px 20px 0;
   }
 
   .icone-acao-importadora {
     color:#fec107;
     font-size:2em;
     float:left;
-    margin: 0 15px 30px 0;
+    margin: 0 15px 20px 0;
   }
 }
