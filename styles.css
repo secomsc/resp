@@ -338,7 +338,7 @@ ul.timeline > li:before {
 @media (max-width: 700px) {
 
   .mobi {
-    display: inline;
+    display: inline!important;
   }
 
   .desktop {
