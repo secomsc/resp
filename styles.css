@@ -298,7 +298,7 @@ ul.timeline > li:before {
     margin: 0 15px 30px 0;
   }
 
-  .icone-recuperado {
+  .icone-azul-escuro {
     color:#0275d8;
     font-size:2em;
     float:left;
@@ -312,21 +312,28 @@ ul.timeline > li:before {
     margin: 0 15px 20px 0;
   }
 
-  .icone-imoveis {
+  .icone-azul-claro {
     color:#0dcaf0;
     font-size:2em;
     float:left;
     margin: 0 15px 20px 0;
   }
 
-  .icone-imoveis-pendentes {
+  .icone-verde {
     color:#188754;
     font-size:2em;
     float:left;
     margin: 0 15px 20px 0;
   }
 
-  .icone-acao-importadora {
+  .icone-verde-claro {
+    color:#65d8a3;
+    font-size:2em;
+    float:left;
+    margin: 0 15px 20px 0;
+  }
+
+  .icone-amarelo {
     color:#fec107;
     font-size:2em;
     float:left;
