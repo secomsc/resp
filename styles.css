@@ -62,12 +62,14 @@ respiradores {
 }
 
 .tt-milhoes {
-  height:100px;
+  height:65px;
   margin-right: 26%;
+  padding-right: 8px!important;
+  padding-top: 0!important;
   float: right;
   width: 74%!important;
-  margin-bottom: -40px;
-  border-right: 1px dashed #999999;
+  margin-bottom: -35px;
+  border-right: 2px dashed #999999;
   z-index: 999;
   text-align: right;
   color: #999999;
@@ -226,9 +228,6 @@ ul.timeline > li:before {
     display: inline;
   }
 
-  .mobi-micro {
-    display: none;
-  }
 }
 
 @media (max-width: 1023px) {
@@ -240,9 +239,6 @@ ul.timeline > li:before {
     display: none!important;
   }
 
-  .mobi-micro {
-    display: none;
-  }
 
   .mob-icon {
     font-size: 1.8em;
@@ -336,34 +332,21 @@ ul.timeline > li:before {
     float:left;
     margin: 0 15px 20px 0;
   }
+
 }
 
 @media (max-width: 700px) {
+
+  .mobi {
+    display: inline;
+  }
+
+  .desktop {
+    display: none!important;
+  }
+
   .display-1 {
     font-size: 2.5em!important;
   }
 
-  .desktop {
-    display: none;
-  }
-
-  .mobi {
-    display: none;
-  }
-
-  .mobi-micro {
-    display: inline;
-  }
-
-  .tt-milhoes {
-    height:120px;
-    margin-right: 26%;
-    float: right;
-    width: 74%!important;
-    margin-bottom: -40px;
-    border-right: 1px dashed #999999;
-    z-index: 999;
-    text-align: right;
-    color: #999999;
-  }
 }
