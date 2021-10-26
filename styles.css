@@ -42,6 +42,14 @@ respiradores {
   text-decoration: none;
 }
 
+.display-526 {
+  font-weight: bolder!important;
+  font-size: 10em!important;
+  color: #0275d8;
+  text-align: center;
+  margin-bottom: 0;
+}
+
 #btn-back-to-top {
   position: fixed;
   bottom: 20px;
@@ -285,6 +293,10 @@ ul.timeline > li:before {
     font-size: 3em!important;
   }
 
+  .display-526 {
+    font-size: 8em!important;
+  }
+
   .paragrafo-display {
     font-size: 0.9em;
   }
@@ -314,42 +326,42 @@ ul.timeline > li:before {
     color:#0275d8;
     font-size:2em;
     float:left;
-    margin: 0px 15px 20px 0;
+    margin: 0px 15px 30px 0;
   }
 
   .icone-providencias {
     color:#0275d8;
     font-size:2em;
     float:left;
-    margin: 0 15px 20px 0;
+    margin: 0 15px 30px 0;
   }
 
   .icone-azul-claro {
     color:#0dcaf0;
     font-size:2em;
     float:left;
-    margin: 0 15px 20px 0;
+    margin: 0 15px 30px 0;
   }
 
   .icone-verde {
     color:#188754;
     font-size:2em;
     float:left;
-    margin: 0 15px 20px 0;
+    margin: 0 15px 30px 0;
   }
 
   .icone-verde-claro {
     color:#65d8a3;
     font-size:2em;
     float:left;
-    margin: 0 15px 20px 0;
+    margin: 0 15px 30px 0;
   }
 
   .icone-amarelo {
     color:#fec107;
     font-size:2em;
     float:left;
-    margin: 0 15px 20px 0;
+    margin: 0 15px 30px 0;
   }
 
 }
