@@ -50,6 +50,12 @@ respiradores {
   margin-bottom: 0;
 }
 
+.economia {
+  font-weight: bolder!important;
+  color: #0275d8;
+}
+
+
 #btn-back-to-top {
   position: fixed;
   bottom: 20px;
@@ -80,6 +86,46 @@ respiradores {
   z-index: 999;
   text-align: right;
   color: #999999;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  font-weight: bold;
+  margin-top: 200px;
+}
+
+.col-md-4 {
+  text-align: center;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  border-right: 1px dashed black;
+}
+
+.col-md-4:last-child {
+  border-right: 0px solid black;
+}
+
+.counter {
+  animation-duration: 1s;
+  animation-delay: 0s;
+}
+
+i {
+  font-size: 20px !Important;
+}
+
+@media (max-width: 991px) {
+  .col-md-4 {
+    border-right: 0px dashed black;
+    border-bottom: 1px dashed black;
+    width: 50%;
+    margin: auto auto;
+  }
+
+  .col-md-4:last-child {
+    border-bottom: 0px dashed black;
+  }
 }
 
 nav {
