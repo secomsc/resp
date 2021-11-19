@@ -234,7 +234,7 @@ ul.timeline > li:before {
   .icone-azul-escuro {
     width: 100%;
     color:#0d6efd;
-    font-size:2em;
+    font-size:2em!important;
     float:left;
     margin: 0 15px 0 0;
   }
@@ -242,7 +242,7 @@ ul.timeline > li:before {
   .icone-azul-claro {
     width: 100%;
     color:#0dcaf0;
-    font-size:2em;
+    font-size:2em!important;
     float:left;
     margin: 0 15px 0 0;
   }
@@ -250,7 +250,7 @@ ul.timeline > li:before {
   .icone-verde {
     width: 100%;
     color:#188754;
-    font-size:2em;
+    font-size:2em!important;
     float:left;
     margin: 0 15px 0 0;
   }
@@ -258,7 +258,7 @@ ul.timeline > li:before {
   .icone-verde-claro {
     width: 100%;
     color:#65d8a3;
-    font-size:2em;
+    font-size:2em!important;
     float:left;
     margin: 0 15px 0 0;
   }
@@ -266,21 +266,21 @@ ul.timeline > li:before {
   .icone-amarelo {
     width: 100%;
     color:#fec107;
-    font-size:2em;
+    font-size:2em!important;
     float:left;
     margin: 0 15px 0 0;
   }
 
   .icone-providencias {
     color:#0275d8;
-    font-size:2em;
+    font-size:2em!important;
     float:left;
     margin: 0 15px 0 40px;
   }
 
   .icone-busca {
     color:#cccccc;
-    font-size:2em;
+    font-size:2em!important;
     float:right;
     margin: 0 15px 0 40px;
   }
@@ -363,14 +363,14 @@ ul.timeline > li:before {
 
   .icone-busca {
     color:#cccccc;
-    font-size:2em;
+    font-size:2em!important;
     float:left;
     margin: 0 15px 30px 0;
   }
 
   .icone-azul-escuro {
     color:#0275d8;
-    font-size:2em;
+    font-size:2em!important;
     border-right: 1px solid #0275d8;
     padding-right: 15px;
     float:left;
@@ -380,7 +380,7 @@ ul.timeline > li:before {
 
   .icone-providencias {
     color:#0275d8;
-    font-size:2em;
+    font-size:2em!important;
     float:left;
     margin: 0 15px 10px 0;
     height: 100%;
@@ -388,7 +388,7 @@ ul.timeline > li:before {
 
   .icone-azul-claro {
     color:#0dcaf0;
-    font-size:2em;
+    font-size:2em!important;
     border-right: 1px solid #0dcaf0;
     padding-right: 15px;
     float:left;
@@ -398,7 +398,7 @@ ul.timeline > li:before {
 
   .icone-verde {
     color:#188754;
-    font-size:2em;
+    font-size:2em!important;
     border-right: 1px solid #188754;
     padding-right: 15px;
     float:left;
@@ -411,7 +411,7 @@ ul.timeline > li:before {
     border-right: 1px solid #65d8a3;
     padding-right: 15px;
     padding-left: 0;
-    font-size:2em;
+    font-size:2em!important;
     height: 100%;
     float:left;
     margin: 0 15px 0 0;
@@ -421,7 +421,7 @@ ul.timeline > li:before {
     color:#fec107;
     border-right: 1px solid #fec107;
     padding-right: 15px;
-    font-size:2em;
+    font-size:2em!important;
     float:left;
     margin: 0 15px 0 0;
     height: 100%;
